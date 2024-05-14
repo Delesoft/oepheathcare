@@ -1,0 +1,22 @@
+.spacer{
+    flex:1 1 auto;
+}
+
+.valign{
+    display: inline-flex;
+    align-items: center;
+}
+
+.contactbtn{
+    background-color: red;
+    margin-right: 30px;
+        font-weight: bold;
+        width: 200px;
+        height: 30Px;
+        border-radius: 10x;
+        border: 2px solid gray;
+        
+    
+
+}
+

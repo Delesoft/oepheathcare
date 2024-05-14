@@ -1,0 +1,11 @@
+.allproducts{
+    padding: 10px;
+}
+.filterbuttons{
+    padding: 10px;
+    margin: 15px;
+    align-items: center;
+}
+.filterbuttons button{
+    margin: 10px;
+}

@@ -1,0 +1,10 @@
+.contactbtn{
+    margin-right: 30px;
+    font-weight: bold;
+    width: 200px;
+    height: 30Px;
+    border-radius: 10x;
+    border: 2px solid gray;
+    align-self: flex-end;
+    margin-bottom: 10px;
+}

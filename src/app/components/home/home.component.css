@@ -1,0 +1,23 @@
+.p-4 {
+    padding: 1rem; /* Adjust the padding value to reduce space */
+  }
+
+/* Add hover effect */
+.bg-gray-100 {
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out; /* Add transition for smooth effect */
+  }
+  
+  .bg-gray-100:hover {
+    transform: scale(1.1); /* Increase the size slightly on hover */
+    opacity: 0.9; /* Reduce opacity on hover */
+  }
+.explorebtn{
+  background-color: green;
+  margin-right: 30px;
+  font-weight: bold;
+  width: 200px;
+  height: 40Px;
+  border-radius: 10ox;
+  border: 2px solid gray;
+}  
+
